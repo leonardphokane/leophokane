@@ -55,7 +55,7 @@
     </section>
 
     <footer>
-        <p>© 2024 John Doe</p>
+        <p>Thanks for visiting! © 2024</p>
     </footer>
 
 </body>
