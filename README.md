@@ -22,7 +22,7 @@
 
     <section id="home">
         <h2>Home Section</h2>
-        <p>This is a paragraph of text in the home section. You can put any content here.</p>
+        <p>HTML is fun.</p>
         <p>HTML stands for HyperText Markup Language, and it is the standard language for creating web pages.</p>
         <p>HTML is made up of various elements like headings, paragraphs, links, and more!</p>
     </section>
