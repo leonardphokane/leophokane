@@ -22,7 +22,7 @@
 
     <section id="home">
         <h2>Home Section</h2>
-        <p>HTML is fun.</p>
+        <p>HTML is easy and fun!</p>
         <p>HTML stands for HyperText Markup Language, and it is the standard language for creating web pages.</p>
         <p>HTML is made up of various elements like headings, paragraphs, links, and more!</p>
     </section>
