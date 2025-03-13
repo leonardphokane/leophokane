@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic HTML Web Page</title>
+    <title>🌟 My First HTML Page</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS (optional) -->
 </head>
 
